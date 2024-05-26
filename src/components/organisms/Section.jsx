@@ -84,7 +84,7 @@ function Section() {
       
       <Button title="agregar" onclick={handlerClick} />
       <Button
-        title="Mostrar Lista de Estudiantes"
+        title="Mostrar Actividades"
         onclick={handleShowActivitiesClick}
       />
 
